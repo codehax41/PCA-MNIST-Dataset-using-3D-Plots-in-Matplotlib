@@ -1,3 +1,5 @@
+Note : TO Download the Dataset : https://drive.google.com/open?id=1vsKlK7sTfJcLYn-omFO6kq71p2wmgmn3
+
 # 3D-Plots-in-Matplotlib, Plotly
 - This repo help us understand three dimensional plots by using widely used visualization tool - Matplotlib
 - And Parallel cordinates in plotly
