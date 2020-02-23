@@ -1,5 +1,6 @@
-# 3D-Plots-in-Matplotlib
-This repo help us understand three dimensional plots by using widely used visualization tool - Matplotlib
+# 3D-Plots-in-Matplotlib, Plotly
+- This repo help us understand three dimensional plots by using widely used visualization tool - Matplotlib
+- And Parallel cordinates in plotly
 
 # Get started
 Here are some necessary dependencies we will need: <br>
